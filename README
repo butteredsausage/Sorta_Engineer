@@ -1,0 +1,4 @@
+Hi, its me @Sorta_Engineer this README will inform you on everything you need to know first,
+the script should be compatible with most arducams if it is not then its best to just ask ChatGPT am I right hehe,
+but all jokes aside you should first know you'll need to pip install picamera2, numpy, and opencv2 the code then should run fine on the pi 5 or what ever model your using.
+The code is basic feel free to tune or modify it to your liking, thank you for taking the time to read this, have fun!
